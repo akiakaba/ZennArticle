@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/salvage0707/ZennArticle#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.81"
+    "zenn-cli": "^0.1.132"
   }
 }
